@@ -1,0 +1,60 @@
+body {
+  font-family: 'Candara', 'Candara', 'Candara';
+  background-color: #C0C0C0;
+  font-weight: 300;
+  font-size: 16px;
+}
+.container {
+  max-width: 1000px;
+  background-color: #fff;
+  padding: 25px 50px;
+  margin: 20px auto;
+}
+.navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
+.navbar {min-height:32px !important}
+.content-header {
+  font-family: 'Candara-Bold', 'Candara-Bold', 'Candara';
+  color:#000;
+  border-bottom: 1px solid #dddddd;
+}
+.personal-information {
+  font-family: 'Candara-Bold', 'Candara-Bold', 'Candara';
+  margin-top:25px;
+}
+.personal-information dd, dt {
+  margin-top: 0px;
+}
+.address {
+  font-size: 20px;
+  padding-top: 0px;
+}
+/* Typography */
+h1,
+h2,
+h3,
+h4,
+h5 {
+}
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: Open Sans;
+  letter-spacing: 1px;
+}
+h2 {
+  font-size: 21px;
+}
+h3 {
+  font-size: 20px ;
+}
+h4 {
+  font-size: 16px ;
+}
+h5 {
+  font-size: 12px;
+}
+
+.publication-conf {
+  font-family: 'Candara-Italic';
+  font-style: italic;
+}
